@@ -1,9 +1,10 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"id": "anthonyfuller.enhancedcamera",
 	"name": "Enhanced Camera",
 	"description": "Have you ever wanted to see the compression artifacts of textures? Wanted to see 47 take a really awkward selfie? Or even just wanted to see with a functional flash. Then this mod is for you! ",
 	"authors": ["Anthony Fuller"],
-	"frameworkVersion": "2.25.1"
+	"frameworkVersion": "2.33.18",
+	"updateCheck": "https://github.com/AnthonyFuller/enhanced-camera/releases/latest/download/updates.json"
 }
